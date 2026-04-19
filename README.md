@@ -147,14 +147,13 @@ project-interview-coach/
 
 - [ ] 支持多语言（英文版 SKILL / PLAYBOOK）
 - [ ] 按岗位细分的提问模板（前端 / 后端 / 算法工程 / SRE）
-- [ ] 集成主流面经社区爬虫（1point3acres / nowcoder）做更精准的公司搜索
 - [ ] 产出 Anki 牌组（把每个亮点的 Poke Hole 自动转成 flashcard）
 
 ## 贡献
 
 欢迎 PR：
-- 补充 `QUESTION_BANK.md` 里的八股题目（务必标注必知 / 常问 / 可能问优先级）
-- 补充 `INTERVIEW_PLAYBOOK.md` 里按领域的深度问题
+- 补充 `QUESTION_BANK.md` 里的八股题目（务必标注必知 / 常问 / 可能问优先级）（推荐自行按照面试岗位/方向补充总结）
+- 可以补充 `INTERVIEW_PLAYBOOK.md` 里按领域的深度问题
 - 分享你用这个 skill 的真实案例（欢迎做成 issue）
 
 ## 致谢
